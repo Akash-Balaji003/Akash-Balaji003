@@ -43,6 +43,10 @@
 |---|---|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Balaji003&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Balaji003&layout=compact&theme=radical) |
 
+### 🏆 Total Commits in 2024 & 2025  
+![Total Commits](https://github-readme-streak-stats.herokuapp.com/?user=Akash-Balaji003&theme=radical)  
+
+
 ---
 
 ⭐ **Star my repositories if you find them useful!** 🚀  

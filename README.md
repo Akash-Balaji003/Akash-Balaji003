@@ -7,17 +7,16 @@ Welcome to my GitHub profile! I'm passionate about **React Native, Python FastAP
 - **Frontend:** React Native, ReactJS  
 - **Backend:** FastAPI, Node.js  
 - **Database:** MySQL, Firebase  
-- **ML/DL:** TensorFlow, OpenCV, oneDNN  
+- **ML/DL:** TensorFlow, OpenCV  
 - **Cloud:** AWS, Azure
 
 ### 🔥 Projects  
-- [SwipeApp](https://github.com/Akash-Balaji003/Opta) - Geolocation App using Google API
+- [Geolocation Using Google API](https://github.com/Akash-Balaji003/OptaGeolocation) - Geolocation App using Google API
 - [Food Spoilage Detection](https://github.com/Akash-Balaji003/Fruit-Spoil-Detection) - ML-based Food Sustainability  
-- [Employee Payroll System](https://github.com/Akash-Balaji003/Payroll-App) - React Native & FastAPI  
+- [Employee Payroll System](https://github.com/Akash-Balaji003/Payroll-System) - React Native & FastAPI  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-balaji-877757250/)  
 
 ---
 ⭐ **Star my repositories if you find them useful!** 🚀  

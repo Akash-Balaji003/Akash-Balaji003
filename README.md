@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Akash Balaji 👋  
+### 🚀 React Native Developer | FastAPI Enthusiast | ML Researcher  
 
-<!--
-**Akash-Balaji003/Akash-Balaji003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about **React Native, Python FastAPI, Machine Learning, and Cloud Computing**.  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack  
+- **Frontend:** React Native, ReactJS  
+- **Backend:** FastAPI, Node.js  
+- **Database:** MySQL, Firebase  
+- **ML/DL:** TensorFlow, OpenCV, oneDNN  
+- **Cloud:** AWS, GCP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Projects  
+- [SwipeApp](https://github.com/Akash-Balaji003/SwipeApp) - QR Code-based Digital Visiting Card  
+- [Food Spoilage Detection](https://github.com/Akash-Balaji003/Fruit-Spoil-Detection) - ML-based Food Sustainability  
+- [Employee Payroll System](https://github.com/Akash-Balaji003/Payroll-App) - React Native & FastAPI  
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)  
+
+---
+⭐ **Star my repositories if you find them useful!** 🚀  

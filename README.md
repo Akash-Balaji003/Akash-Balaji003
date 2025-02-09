@@ -6,7 +6,6 @@
 ## 🏆 About Me  
 - 🔥 Passionate about **React Native, FastAPI, and Machine Learning**  
 - 🌱 Currently exploring **ML models and optimization techniques**  
-- 🏗️ Building a **fitness app for SRM University**  
 - 🏆 Led a **national-level hackathon team** on full-stack & IoT   
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/yakash-balaji-877757250/)
 

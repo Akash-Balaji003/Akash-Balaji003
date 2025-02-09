@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm passionate about **React Native, Python FastAP
 - **Backend:** FastAPI, Node.js  
 - **Database:** MySQL, Firebase  
 - **ML/DL:** TensorFlow, OpenCV, oneDNN  
-- **Cloud:** AWS, GCP  
+- **Cloud:** AWS, Azure
 
 ### 🔥 Projects  
-- [SwipeApp](https://github.com/Akash-Balaji003/SwipeApp) - QR Code-based Digital Visiting Card  
+- [SwipeApp](https://github.com/Akash-Balaji003/Opta) - Geolocation App using Google API
 - [Food Spoilage Detection](https://github.com/Akash-Balaji003/Fruit-Spoil-Detection) - ML-based Food Sustainability  
 - [Employee Payroll System](https://github.com/Akash-Balaji003/Payroll-App) - React Native & FastAPI  
 
